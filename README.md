@@ -9,9 +9,10 @@ This respository consists of the following spatial analyses performed using Pyth
 
 
 ##Installation
-$ conda env create -n geospatial --file geospatial-environment.yml
-$ conda activate geospatial
-
+```
+conda env create -n geospatial --file geospatial-environment.yml
+conda activate geospatial
+```
 
 ## Package requirements
 The packages required for running the script are as follows:
