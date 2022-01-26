@@ -8,6 +8,11 @@ This respository consists of the following spatial analyses performed using Pyth
 |[Exploring the demography and power sector of South Asia](https://towardsdatascience.com/exploring-the-demography-and-power-sector-of-south-asia-27cca720163c)|[World Bank Open Data 2021](https://data.worldbank.org/), [Our World in Data 2021](https://ourworldindata.org/electricity-mix)|
 
 
+##Installation
+$ conda env create -n geospatial --file geospatial-environment.yml
+$ conda activate geospatial
+
+
 ## Package requirements
 The packages required for running the script are as follows:
 - pandas
