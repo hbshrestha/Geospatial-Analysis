@@ -13,6 +13,10 @@ This respository consists of the following spatial analyses performed using Pyth
 conda env create -n geospatial --file geospatial-environment.yml
 conda activate geospatial
 ```
+## To create new kernel for jupyter notebook:
+``` 
+python -m ipykernel install --user --name <python environment> --display-name "Python (<python environment>)"
+```
 
 ## Package requirements
 The packages required for running the script are as follows:
