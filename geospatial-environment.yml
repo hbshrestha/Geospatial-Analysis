@@ -10,4 +10,4 @@ dependencies:
 - shapely>=1.8.0
 - networkx=2.6.3
 - plotly>=4.14.3
-- folium>='0.12.1.post1
+- folium>=0.12.1.post1
