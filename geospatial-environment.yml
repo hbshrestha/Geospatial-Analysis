@@ -1,0 +1,13 @@
+name: geospatial-environment
+
+dependencies:
+- geopandas>=0.9.0
+- geoplot>=0.4.4
+- pint>=0.11
+- matplotlib
+- pandas
+- numpy
+- shapely>=1.8.0
+- networkx=2.6.3
+- plotly>=4.14.3
+- folium>='0.12.1.post1
