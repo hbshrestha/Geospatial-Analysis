@@ -30,7 +30,7 @@ python -m ipykernel install --user --name geospatial --display-name "geospatial"
 If the environment is not required any more, it can be removed using:
 ```conda env remove -n geospatial```
 
-## Package requirements
+# Package requirements
 The packages required for running the script are as follows:
 - pandas
 - matplotlib
