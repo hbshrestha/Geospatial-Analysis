@@ -15,3 +15,8 @@ dependencies:
 - graphviz
 - math
 - pygraphviz
+- xarray
+- dask
+- netCDF4
+- bottleneck
+- rioxarray
