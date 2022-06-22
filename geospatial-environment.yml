@@ -20,3 +20,4 @@ dependencies:
 - netCDF4
 - bottleneck
 - rioxarray
+- cartopy
