@@ -8,6 +8,7 @@ This respository consists of the notebooks for following spatial analyses perfor
 |[Geoplotting emissions intensity of electricity generation in Europe](https://towardsdatascience.com/geoplotting-emissions-intensity-of-electricity-generation-in-europe-90c22b378858)|[Our World in Data 2021](https://ourworldindata.org/grapher/carbon-intensity-electricity)|
 |[Exploring the demography and power sector of South Asia](https://towardsdatascience.com/exploring-the-demography-and-power-sector-of-south-asia-27cca720163c)|[World Bank Open Data 2021](https://data.worldbank.org/), [Our World in Data 2021](https://ourworldindata.org/electricity-mix)|
 |[Network and interconnections in Python maps](https://towardsdatascience.com/network-and-interconnection-in-python-maps-6c797580b3b1)|[WorldPop 2022](https://www.worldpop.org/)|
+|[Solving the Travelling Salesman Problem for Germany using NetworkX in Python](https://towardsdatascience.com/solving-the-travelling-salesman-problem-for-germany-using-networkx-in-python-2b181efd7b07)|
 
 - `script` consists of the Python notebooks for the above analyses.
 - `data` consists of the data used in the notebooks.
