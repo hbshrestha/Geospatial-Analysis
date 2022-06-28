@@ -22,14 +22,14 @@ Himalaya Bir Shrestha
 
 - Create a virtual environment using:
 ```
-conda env create -n geospatial --file geospatial-environment.yml
+conda env create -n geospatial-environment --file geospatial-environment.yml
 ```
 - Once the environment is created, it can be activates using:
 ```conda activate geospatial```
 
 - To create new kernel for jupyter notebook:
 ``` 
-python -m ipykernel install --user --name geospatial --display-name "geospatial"
+python -m ipykernel install --user --name geospatial-environment --display-name "geospatial-environment"
 ```
 
 ## Uninstallation
