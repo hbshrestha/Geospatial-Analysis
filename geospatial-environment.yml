@@ -21,6 +21,8 @@ dependencies:
 - cartopy=0.20.2
 - ipykernel=6.15.0
 - plotly=5.9.0
+- regionmask
+- pygeos
 - pip
 - pip:
   - graphviz==0.20
