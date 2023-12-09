@@ -17,6 +17,9 @@ This respository consists of the notebooks for following spatial analyses perfor
 ## Contributors
 Himalaya Bir Shrestha
 
+## Suggested approach to install geopandas in Windows
+[Geopandas installation the easy way for windows](https://towardsdatascience.com/geopandas-installation-the-easy-way-for-windows-31a666b3610f)
+
 ## Installation
 - Download and clone this repository.
 
